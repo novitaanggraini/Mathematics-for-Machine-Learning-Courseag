@@ -1,1 +1,1 @@
-# Mathematics-for-Machine-Learning-Courseag
+# Mathematics-for-Machine-Learning-Coursera
